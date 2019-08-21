@@ -1,0 +1,17 @@
+
+Iteration=1::Time=3ms
+Iteration=2::Time=0ms
+Iteration=3::Time=0ms
+Iteration=4::Time=1ms
+Iteration=1::Time=3ms
+Iteration=2::Time=0ms
+Iteration=3::Time=1ms
+Iteration=4::Time=0ms
+Iteration=1::Time=3ms
+Iteration=2::Time=0ms
+Iteration=3::Time=0ms
+Iteration=4::Time=0ms
+Iteration=1::Time=16ms
+Iteration=2::Time=0ms
+Iteration=3::Time=0ms
+Iteration=4::Time=0ms
